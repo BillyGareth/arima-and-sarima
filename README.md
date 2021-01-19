@@ -1,6 +1,6 @@
 # ARIMA-And-Seasonal-ARIMA
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FNUA6V.png&imgrefurl=https%3A%2F%2Fstats.stackexchange.com%2Fquestions%2F129901%2Fsarima-model-equation&tbnid=EATirDybW7OUgM&vet=12ahUKEwiVhqamvKfuAhUMpBoKHVbMCXoQMygBegUIARCkAQ..i&docid=pZKFKo8SG4C1KM&w=1169&h=317&q=arima%20and%20sarima&ved=2ahUKEwiVhqamvKfuAhUMpBoKHVbMCXoQMygBegUIARCkAQ" width="600" height="200" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmHe6BymBcjF0meWIpWZ3E7tn6w6_nGgzDg&usqp=CAU" width="600" height="200" />
 Let’s Break it Down:-
 - AR: Autoregression. A model that uses the dependent relationship between an observation and some number of lagged observations.
 - I: Integrated. The use of differencing of raw observations in order to make the time series stationary.
