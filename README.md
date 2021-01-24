@@ -1,10 +1,10 @@
 # ARIMA-And-Seasonal-ARIMA
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmHe6BymBcjF0meWIpWZ3E7tn6w6_nGgzDg&usqp=CAU" width="600" height="200" />
-Let’s Break it Down:-
--[] AR: Autoregression. A model that uses the dependent relationship between an observation and some number of lagged observations.
--[] I: Integrated. The use of differencing of raw observations in order to make the time series stationary.
--[] MA: Moving Average. A model that uses the dependency between an observation and a residual error from a moving average model applied to lagged observations.
+Let’s Break it Down:
+[✓] AR: Autoregression. A model that uses the dependent relationship between an observation and some number of lagged observations.
+[✓] I: Integrated. The use of differencing of raw observations in order to make the time series stationary.
+[✓] MA: Moving Average. A model that uses the dependency between an observation and a residual error from a moving average model applied to lagged observations.
 
 The parameters of the ARIMA model are defined as follows:
 - p: The number of lag observations included in the model, also called the lag order.
